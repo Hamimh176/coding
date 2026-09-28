@@ -1,0 +1,1 @@
+i could build an function which allows me to draw data from different data bases and the function will allow for me to take only the raw data  of specific subsections of the data
